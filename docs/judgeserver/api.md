@@ -84,7 +84,7 @@ When compilation is failed, following data will be returned
 ```js
 {
 	"err": "CompileError", 
-	"data": "error resson"
+	"data": "error reason"
 }
 ```
 
@@ -109,7 +109,7 @@ When compilation is failed, following data will be returned
 ```js
 {
 	"err": "SPJCompileError", 
-	"data": "error resson"
+	"data": "error reason"
 }
 ```
 
